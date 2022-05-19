@@ -1,0 +1,62 @@
+
+.welcome h2 {
+    color: rgb(32, 217, 217);
+    text-align: center;
+   
+}
+.welcome p, .welcome i {
+    width: 100%;
+    color: rgb(206, 206, 206);
+    text-align: center;
+    font-size: 18px;
+}
+.list {
+    text-decoration: none;
+    list-style-type: none;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    width: 70%;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: rgb(30, 30, 30);
+    border-radius: 10px;
+}
+.list li {
+    display: block;
+    background-color: rgb(62, 62, 62);
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 10px;
+    width: auto;
+    height: auto;
+    min-width: 200px;
+
+}
+.list li img {
+    width: 100px;
+    height: 100px;
+}
+.list h3 {
+    color: rgb(255, 205, 111);
+}
+.wider {
+    width: 180px !important;
+}
+
+
+
+
+div.list {
+    position: absolute;
+    bottom: 0px;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    height: auto;
+    padding: 0;
+}
+div.list p {
+    
+    width: 100%;
+    font-size: 13px;
+}

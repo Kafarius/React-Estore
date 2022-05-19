@@ -1,0 +1,23 @@
+
+.cart {
+    display: block;
+    min-height: 200px;
+    width: 70%;
+    margin: 20px auto;
+    margin-top: 100px;
+    padding: 20px;
+    background-color: rgb(30, 30, 30);
+    border-radius: 10px;
+}
+.cart_name {
+    text-align: center;
+    color: rgb(32, 217, 217);
+}
+.empty {
+    text-align: center;
+    color: rgb(213, 95, 22);
+}
+.cart ul {
+    list-style-type: none;
+    padding: 0;
+}
