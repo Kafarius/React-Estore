@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2111a278.css",
+    "main.js": "/static/js/main.07248391.js",
+    "static/media/redux_logo.png": "/static/media/redux_logo.1b4bb5fceb01b19da59d.png",
+    "static/media/reactrouter_logo.png": "/static/media/reactrouter_logo.e1dee157d6b519b1cb82.png",
+    "static/media/react_logo.png": "/static/media/react_logo.20adfb35ae6a6e5817bf.png",
+    "index.html": "/index.html",
+    "main.2111a278.css.map": "/static/css/main.2111a278.css.map",
+    "main.07248391.js.map": "/static/js/main.07248391.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2111a278.css",
+    "static/js/main.07248391.js"
+  ]
+}
